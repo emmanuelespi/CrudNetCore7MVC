@@ -1,0 +1,1 @@
+# CrudNetCore7MVC
